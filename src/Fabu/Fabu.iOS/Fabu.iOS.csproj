@@ -134,4 +134,8 @@
       <Name>Fabu</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Helpers\" />
+    <Folder Include="Renderer\" />
+  </ItemGroup>
 </Project>
